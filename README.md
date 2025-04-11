@@ -114,7 +114,6 @@ public class MainActivity extends AppCompatActivity {
         tools:layout_editor_absoluteY="456dp" />
 </RelativeLayout>
 
-```
 
 ## Output:
 
